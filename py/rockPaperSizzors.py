@@ -1,0 +1,1 @@
+computerChoice = "scissors"
